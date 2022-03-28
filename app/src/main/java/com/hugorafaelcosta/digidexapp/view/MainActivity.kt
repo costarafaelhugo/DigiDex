@@ -1,7 +1,8 @@
-package com.hugorafaelcosta.digidexapp
+package com.hugorafaelcosta.digidexapp.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.hugorafaelcosta.digidexapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
